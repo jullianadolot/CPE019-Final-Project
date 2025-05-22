@@ -21,8 +21,6 @@ The dataset consists of labeled images of the following fruit classes:
 - Lemon
 - Eggplant
 
-> 📷 Each image is preprocessed (resized and normalized) before being fed into the model.
-
 ## 🧠 Model Architecture
 
 We used a Convolutional Neural Network (CNN) with the following architecture:
